@@ -29,10 +29,3 @@ Use predicted probabilities to stratify customers for a future retention experim
 
 This is a predictive analysis. It does not identify which customers would change their behaviour because of a marketing intervention.
 
-# Data
-
-Dataset: UCI Online Retail II
-
-The raw dataset is not stored in this repository.
-
-Place the downloaded Excel file in this directory before running the notebooks.
