@@ -7,9 +7,6 @@ Given information available at the completion of a customer's first valid order,
 ## Unit of analysis
 One eligible customer.
 
-## Prediction time
-The completion of the customer's first valid order.
-
 ## Target
 `repeat_within_90d = 1` if the customer places a second valid order within 90 days of the first order, and `0` otherwise.
 
