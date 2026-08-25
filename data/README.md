@@ -2,8 +2,6 @@
 
 Dataset: UCI Online Retail II
 
-The raw dataset is not stored in this repository.
+URL: https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
-Place the downloaded Excel file in this directory before running the notebooks.  
-
-https://archive.ics.uci.edu/dataset/502/online+retail+ii
+The dataset used for this project is not included in this repository. Please download the dataset from the URL above and place it in the folder before run the notebook.
